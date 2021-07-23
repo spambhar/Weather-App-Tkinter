@@ -105,4 +105,4 @@ The API key is all you need to call any of our weather APIs. Once you [sign up]
 
 1. [Smit Pambhar](https://github.com/spambhar)
 2. [Shivam Panchal](https://github.com/shivam-0105)
-3.  Neelkumar Kunjadiya 
+3. [Neelkumar Kunjadiya](https://github.com/Neel-Kunjadiya)
