@@ -100,9 +100,3 @@ The API key is all you need to call any of our weather APIs. Once you [sign up]
 ![Plot_pressure](https://user-images.githubusercontent.com/70934443/119979920-2f75f480-bfd9-11eb-91c7-513dcb2d16c7.png)
 ![Plot_humidity](https://user-images.githubusercontent.com/70934443/119979960-3e5ca700-bfd9-11eb-9a58-5e0856cbb54d.png)
 
-
-## Contributors
-
-1. [Smit Pambhar](https://github.com/spambhar)
-2. [Shivam Panchal](https://github.com/shivam-0105)
-3. [Neelkumar Kunjadiya](https://github.com/Neel-Kunjadiya)
