@@ -6,6 +6,9 @@ The API key is all you need to call any of our weather APIs. Once you [sign up]
 ![image](https://user-images.githubusercontent.com/61119120/119944037-69cb9b80-bfb1-11eb-95e3-24bf12ec2f8d.png)
 
 
+https://api.openweathermap.org/data/2.5/onecall?lat=21.1667&lon=72.8333&appid=4c789006adcee867f33acd79750cfad3
+https://api.openweathermap.org/data/2.5/weather?q=surat&appid=4c789006adcee867f33acd79750cfad3
+
 ## Required packages and How to install: 
 1. Tkinter:  Standard GUI library for python
     ```
